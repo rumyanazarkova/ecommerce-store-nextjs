@@ -1,7 +1,7 @@
 # E-Commerce Store with Next.js
 
 This repository is a comprehensive e-commerce store built with Next.js, TypeScript, Tailwind CSS, Headless UI, and Stripe for payments. It communicates with the [Admin CMS](https://ecommerce-admin-cms-pnz1.vercel.app/0001f579-afed-43ff-b7f7-cce85fe64869) project.
-You can check out the store page [HERE]()
+You can check out the store page [HERE](https://ecommerce-store-nextjs-qcqrhpjdd-rumyanazarkovas-projects.vercel.app)
 
 ## 🚀 Features
 
